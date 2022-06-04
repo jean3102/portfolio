@@ -557,10 +557,6 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-text-1 {
     font-size: 3.75rem;
     width: 540px;
@@ -596,6 +592,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 1696px;
   }
@@ -1132,10 +1132,6 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 1900px;
   }
@@ -1225,6 +1221,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 1531px;
   }
